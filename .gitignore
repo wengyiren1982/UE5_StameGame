@@ -72,3 +72,9 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+/ACT_FTG_XYZ/Intermediate
+/ACT_FTG_XYZ/.idea
+/ACT_FTG_XYZ/.vs
+/ACT_FTG_XYZ/Binaries
+/ACT_FTG_XYZ/DerivedDataCache
+/ACT_FTG_XYZ/Saved
